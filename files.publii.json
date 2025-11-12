@@ -1,0 +1,332 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "1da8cf40bd51c1afaaaef0098b4a3e9c"
+    },
+    {
+        "path": "aalj-llm-fy-msr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/aalj-llm-fy-msr/index.html",
+        "type": "file",
+        "md5": "c4eab7eaee509fe4fe08a151aa09b186"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/karm",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/karm/index.html",
+        "type": "file",
+        "md5": "8bb3838a0a09ba89fb6da4b19c4bfc14"
+    },
+    {
+        "path": "fdl-dktwr-aalj-llm-fy-msr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fdl-dktwr-aalj-llm-fy-msr/index.html",
+        "type": "file",
+        "md5": "468a12182ed184badb1cfbf7a5afb8c8"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "add76ea7350481a50cee0a682e726284"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "015f45fa2ed5172deab9c8488f1cd4ad"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "d49a751781e2e8e8b9234d8f841fd814"
+    },
+    {
+        "path": "laalj-bltrdd-lhrry",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/laalj-bltrdd-lhrry/index.html",
+        "type": "file",
+        "md5": "bd41dfe958d8a8ec4b49af133ec4ddbd"
+    },
+    {
+        "path": "lmdh-thtj-l~-fdl-dktwr-aalj-llm-fy-msr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/lmdh-thtj-l~-fdl-dktwr-aalj-llm-fy-msr/index.html",
+        "type": "file",
+        "md5": "83c5aa91ad2af05ae9dc0213f3ecfd00"
+    },
+    {
+        "path": "ltrdd-lhrry",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ltrdd-lhrry/index.html",
+        "type": "file",
+        "md5": "a9b405ac5d8b68280c4b844dc36a991c"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/gallery/images-9-thumbnail.jpeg",
+        "type": "file",
+        "md5": "de7076a03d18e5c57c20d424c0f8495f"
+    },
+    {
+        "path": "/media/posts/1/gallery/images-9.jpeg",
+        "type": "file",
+        "md5": "0b8dc4524610b8eed8bac52b895bc30f"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/2/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/gallery/ltrdd-lHrry-thumbnail.jpg",
+        "type": "file",
+        "md5": "47057d9371796231a77f0ed607ae4e00"
+    },
+    {
+        "path": "/media/posts/2/gallery/ltrdd-lHrry.jpg",
+        "type": "file",
+        "md5": "c8f3783d7ed5588a55f98051d86357e6"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/3/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/gallery/ltrdd-lHrry-thumbnail.jpeg",
+        "type": "file",
+        "md5": "0db9d5329e9d0a5ed65156ba1364b082"
+    },
+    {
+        "path": "/media/posts/3/gallery/ltrdd-lHrry.jpeg",
+        "type": "file",
+        "md5": "bef605f9157a8c1dcbad74ce6e12c4ca"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/4/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/gallery/ltrdd-lHrry-thumbnail.jpeg",
+        "type": "file",
+        "md5": "0db9d5329e9d0a5ed65156ba1364b082"
+    },
+    {
+        "path": "/media/posts/4/gallery/ltrdd-lHrry.jpeg",
+        "type": "file",
+        "md5": "bef605f9157a8c1dcbad74ce6e12c4ca"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/5/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/gallery/laalj-bltrdd-lHrry-thumbnail.jpg",
+        "type": "file",
+        "md5": "fcdefe706c8dcf0b5782739583e3fe65"
+    },
+    {
+        "path": "/media/posts/5/gallery/laalj-bltrdd-lHrry.jpg",
+        "type": "file",
+        "md5": "f3ec52fcc3b1c25804dd1b32dfaced3f"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/aalj-llm-fy-mSr.jpeg",
+        "type": "file",
+        "md5": "f70522ece6320a77e9434187a6696e1a"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/aalj-llm-fy-mSr-2xl.jpeg",
+        "type": "file",
+        "md5": "d1cb0bc9a8a0829834e8ff46fc44e9ef"
+    },
+    {
+        "path": "/media/website/responsive/aalj-llm-fy-mSr-lg.jpeg",
+        "type": "file",
+        "md5": "d1cb0bc9a8a0829834e8ff46fc44e9ef"
+    },
+    {
+        "path": "/media/website/responsive/aalj-llm-fy-mSr-md.jpeg",
+        "type": "file",
+        "md5": "d1cb0bc9a8a0829834e8ff46fc44e9ef"
+    },
+    {
+        "path": "/media/website/responsive/aalj-llm-fy-mSr-sm.jpeg",
+        "type": "file",
+        "md5": "d1cb0bc9a8a0829834e8ff46fc44e9ef"
+    },
+    {
+        "path": "/media/website/responsive/aalj-llm-fy-mSr-xl.jpeg",
+        "type": "file",
+        "md5": "d1cb0bc9a8a0829834e8ff46fc44e9ef"
+    },
+    {
+        "path": "/media/website/responsive/aalj-llm-fy-mSr-xs.jpeg",
+        "type": "file",
+        "md5": "d1cb0bc9a8a0829834e8ff46fc44e9ef"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "a024a32ab65c1c5dbfa4adb890b0463a"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "82d0737fa25945848a241aeb6a3cd531"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "f729ddcde9d3bfe50e5c31d7157ab931"
+    }
+]
